@@ -4,4 +4,8 @@ class demo
 	{
 		System.out.println("Hello World!");
 	}
+	public int sub(int a,int b)
+	{
+		return a-b;
+	}
 }
